@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("./images/13-139570_cool-nature-background-wallpapers-hd.jpg");
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  height: 20px;
+  font-size: 15px;
+  width: 200px;
+  padding: 10px;
+  margin: 50px auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-shadow: 2px 3px 5px gray;
+  box-shadow: 0 0 4px 5px whitesmoke;
+  background: linear-gradient(to left, red, blue);
+  color: white;
+}
+
+div {
+  padding: 10px;
+  margin: 50px auto;
+  height: 200px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 12px;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 18px;
+  text-shadow: 2px 3px 5px gray;
+  box-shadow: 0 0 8px 10px whitesmoke;
+  background: linear-gradient(to right, red, black);
+  /* background: transparent; */
+  color: gold;
+  font-family: cursive;
+}
+
+input {
+  text-align: center;
+  text-transform: capitalize;
+  border: none;
+  font-family: serif;
+  background: transparent;
+  color: black;
+  background-color: white;
+  text-shadow: 2px 3px 5px gray;
+  box-shadow: 0 0 4px 5px white;
+}
+
+button {
+  text-align: center;
+  height: 20px;
+  width: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: white;
+}
